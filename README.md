@@ -247,6 +247,121 @@ Dashboard
 └── Registrar devolução
 ```
 
+
+# FLUXO
+INÍCIO
+│
+└── TELA 1 - LOGIN (Obrigatório)
+    │
+    ├── Usuário informa e-mail/usuário e senha
+    │
+    ├── Validar credenciais
+    │
+    ├── Login válido?
+    │   │
+    │   ├── NÃO
+    │   │   ├── Exibir mensagem:
+    │   │   │   "Usuário ou senha inválidos."
+    │   │   └── Permanecer na tela de Login
+    │   │
+    │   └── SIM
+    │       └── Ir para Dashboard
+    │
+    ▼
+
+TELA 2 - DASHBOARD
+│
+├── Exibir botões
+│   ├── Ver Objetos Encontrados
+│   ├── Ver Objetos Devolvidos
+│   └── Achei um Objeto (Cadastrar)
+│
+├── Menu lateral
+│   └── Logout
+│
+└── Escolher uma opção
+    │
+    ├────────────────────────────────────────────────────────────┐
+    │                                                            │
+    ▼                                                            ▼
+
+TELA 3 - OBJETOS ENCONTRADOS                          TELA 4 - OBJETOS DEVOLVIDOS
+│                                                     │
+├── Exibir tabela/card                                    ├── Exibir tabela/card
+│   ├── Foto                                          │   ├── Foto
+│   ├── Nome                                          │   ├── Nome
+│   ├── Categoria                                     │   ├── Categoria
+│   ├── Local encontrado                              │   ├── Local encontrado
+│   ├── Data                                          │   ├── Data de devolução
+│   ├── Situação                                      │   ├── Proprietário
+│   └── Ações                                         │   └── Situação (Devolvido)
+│
+├── Pesquisar objeto                                  ├── Pesquisar devoluções
+│   ├── Nome                                          │   ├── Nome
+│   ├── Categoria                                     │   ├── Categoria
+│   ├── Local                                         │   └── Data
+│   └── Situação                                      │
+│                                                     └── Voltar ao Dashboard
+├── Selecionar objeto
+│   │
+│   ├── Editar(somente adm ou quem cadastrou)
+│   │   ├── Alterar informações
+│   │   ├── Salvar alterações
+│   │   └── Retornar à lista
+│   │
+│   ├── Excluir(somente adm ou quem cadastrou)
+│   │   ├── Confirmar exclusão?
+│   │   ├── Sim → Excluir registro e imagem
+│   │   └── Não → Cancelar
+│   │
+│   └── Registrar Devolução
+│       ├── Informar dados do proprietário
+│       │   ├── Nome
+│       │   ├── Documento
+│       │   ├── Telefone
+│       │   ├── Data da devolução
+│       │   └── Observações
+│       │
+│       ├── Salvar devolução
+│       ├── Atualizar situação para "Devolvido"
+│       └── Retornar para Objetos Encontrados
+│
+└── Voltar ao Dashboard
+
+TELA 5 - CADASTRAR OBJETO
+│
+├── Preencher formulário
+│   ├── Nome
+│   ├── Descrição
+│   ├── Categoria
+│   ├── Local encontrado
+│   ├── Data encontrada
+│   └── Foto
+│
+├── Upload da imagem
+│   │
+│   ├── Arquivo válido?
+│   │   ├── NÃO → Exibir mensagem de erro
+│   │   └── SIM → Salvar imagem
+│
+├── Salvar objeto
+│
+├── Cadastro realizado?
+│   ├── NÃO → Exibir mensagem de erro
+│   └── SIM
+│       ├── Exibir mensagem de sucesso
+│       └── Retornar para Objetos Encontrados
+
+──────────────────────────────────────────────────────────────
+
+LOGOUT
+│
+├── Usuário seleciona "Sair"
+├── Encerrar sessão
+└── Retornar para Tela de Login
+
+
+
 ---
 # 👥 Equipe
 Projeto desenvolvido durante a disciplina de Engenharia de Software como atividade da Sprint 1.
