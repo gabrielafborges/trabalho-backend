@@ -4,7 +4,7 @@ Sistema web desenvolvido para gerenciar objetos encontrados e perdidos, permitin
 ## 📋 Objetivo
 O projeto tem como objetivo facilitar o gerenciamento de objetos encontrados em uma instituição ou empresa, centralizando todas as informações em um único sistema.
 
----
+
 
 # 🚀 Funcionalidades
 
