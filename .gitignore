@@ -1,0 +1,11 @@
+# Banco de dados local SQLite (caso gerado)
+banco.db
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
