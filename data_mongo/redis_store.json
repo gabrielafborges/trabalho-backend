@@ -1,0 +1,110 @@
+{
+    "strings": {
+        "stats:total_lost": "20",
+        "stats:total_found": "20",
+        "stats:total_users": "20",
+        "item:lost:84447e6a17629f24f988d62a": "{\"titulo\":\"NOTEBOOK\",\"categoria\":\"Eletrônicos\",\"valor_estimado\":450,\"status\":\"pendente\",\"descricao\":\"Item NOTEBOOK cadastrado manualmente via Dashboard UI.\",\"_id\":\"84447e6a17629f24f988d62a\",\"criado_em\":\"2026-08-05 01:11:55\"}",
+        "api:list:itens_perdidos": "[{\"_id\":\"lost_002\",\"titulo\":\"Carteira de Couro Marrom\",\"categoria\":\"Documentos\",\"descricao\":\"Item 'Carteira de Couro Marrom' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_002\",\"proprietario_usuario_id\":\"usr_002\",\"data_perda\":\"2026-08-03 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":179,\"criado_em\":\"2026-08-03 20:09:34\"},{\"_id\":\"lost_003\",\"titulo\":\"Mochila Dell Azul\",\"categoria\":\"Material Escolar\",\"descricao\":\"Item 'Mochila Dell Azul' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_003\",\"proprietario_usuario_id\":\"usr_003\",\"data_perda\":\"2026-08-02 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":1267,\"criado_em\":\"2026-08-02 20:09:34\"},{\"_id\":\"lost_004\",\"titulo\":\"Chaveiro com 3 Chaves e Alarme\",\"categoria\":\"Acessórios\",\"descricao\":\"Item 'Chaveiro com 3 Chaves e Alarme' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_004\",\"proprietario_usuario_id\":\"usr_004\",\"data_perda\":\"2026-08-01 20:09:34\",\"status\":\"resgatado\",\"recompensa_oferecida\":false,\"valor_estimado\":1176,\"criado_em\":\"2026-08-01 20:09:34\"},{\"_id\":\"lost_005\",\"titulo\":\"Casaco de Frio Preto Nike\",\"categoria\":\"Vestuário\",\"descricao\":\"Item 'Casaco de Frio Preto Nike' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_005\",\"proprietario_usuario_id\":\"usr_005\",\"data_perda\":\"2026-07-31 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":true,\"valor_estimado\":750,\"criado_em\":\"2026-07-31 20:09:34\"},{\"_id\":\"lost_006\",\"titulo\":\"Caderno Universitário 10 Matérias\",\"categoria\":\"Chaves\",\"descricao\":\"Item 'Caderno Universitário 10 Matérias' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_006\",\"proprietario_usuario_id\":\"usr_006\",\"data_perda\":\"2026-07-30 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":1282,\"criado_em\":\"2026-07-30 20:09:34\"},{\"_id\":\"lost_007\",\"titulo\":\"Garrafa Térmica Stanley Verde\",\"categoria\":\"Outros\",\"descricao\":\"Item 'Garrafa Térmica Stanley Verde' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_007\",\"proprietario_usuario_id\":\"usr_007\",\"data_perda\":\"2026-07-29 20:09:34\",\"status\":\"resgatado\",\"recompensa_oferecida\":false,\"valor_estimado\":729,\"criado_em\":\"2026-07-29 20:09:34\"},{\"_id\":\"lost_008\",\"titulo\":\"AirPods Pro 2ª Geração\",\"categoria\":\"Eletrônicos\",\"descricao\":\"Item 'AirPods Pro 2ª Geração' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_008\",\"proprietario_usuario_id\":\"usr_008\",\"data_perda\":\"2026-07-28 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":163,\"criado_em\":\"2026-07-28 20:09:34\"},{\"_id\":\"lost_009\",\"titulo\":\"RG - Registro Geral\",\"categoria\":\"Documentos\",\"descricao\":\"Item 'RG - Registro Geral' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_009\",\"proprietario_usuario_id\":\"usr_009\",\"data_perda\":\"2026-07-27 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":true,\"valor_estimado\":836,\"criado_em\":\"2026-07-27 20:09:34\"},{\"_id\":\"lost_010\",\"titulo\":\"Calculadora Científica Casio\",\"categoria\":\"Material Escolar\",\"descricao\":\"Item 'Calculadora Científica Casio' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_010\",\"proprietario_usuario_id\":\"usr_010\",\"data_perda\":\"2026-07-26 20:09:34\",\"status\":\"resgatado\",\"recompensa_oferecida\":false,\"valor_estimado\":404,\"criado_em\":\"2026-07-26 20:09:34\"},{\"_id\":\"lost_011\",\"titulo\":\"Relógio Smartwatch Amazfit\",\"categoria\":\"Acessórios\",\"descricao\":\"Item 'Relógio Smartwatch Amazfit' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_011\",\"proprietario_usuario_id\":\"usr_011\",\"data_perda\":\"2026-07-25 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":289,\"criado_em\":\"2026-07-25 20:09:34\"},{\"_id\":\"lost_012\",\"titulo\":\"Óculos de Grau Ray-Ban\",\"categoria\":\"Vestuário\",\"descricao\":\"Item 'Óculos de Grau Ray-Ban' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_012\",\"proprietario_usuario_id\":\"usr_012\",\"data_perda\":\"2026-07-24 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":1104,\"criado_em\":\"2026-07-24 20:09:34\"},{\"_id\":\"lost_013\",\"titulo\":\"Guarda-chuva Automático\",\"categoria\":\"Chaves\",\"descricao\":\"Item 'Guarda-chuva Automático' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_013\",\"proprietario_usuario_id\":\"usr_013\",\"data_perda\":\"2026-07-23 20:09:34\",\"status\":\"resgatado\",\"recompensa_oferecida\":true,\"valor_estimado\":1469,\"criado_em\":\"2026-07-23 20:09:34\"},{\"_id\":\"lost_014\",\"titulo\":\"Pen Drive Sandisk 64GB\",\"categoria\":\"Outros\",\"descricao\":\"Item 'Pen Drive Sandisk 64GB' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_014\",\"proprietario_usuario_id\":\"usr_014\",\"data_perda\":\"2026-07-22 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":284,\"criado_em\":\"2026-07-22 20:09:34\"},{\"_id\":\"lost_015\",\"titulo\":\"Fone de Ouvido Bluetooth JBL\",\"categoria\":\"Eletrônicos\",\"descricao\":\"Item 'Fone de Ouvido Bluetooth JBL' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_015\",\"proprietario_usuario_id\":\"usr_015\",\"data_perda\":\"2026-07-21 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":1227,\"criado_em\":\"2026-07-21 20:09:34\"},{\"_id\":\"lost_016\",\"titulo\":\"Pasta de Documentos Sanfonada\",\"categoria\":\"Documentos\",\"descricao\":\"Item 'Pasta de Documentos Sanfonada' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_016\",\"proprietario_usuario_id\":\"usr_016\",\"data_perda\":\"2026-07-20 20:09:34\",\"status\":\"resgatado\",\"recompensa_oferecida\":false,\"valor_estimado\":237,\"criado_em\":\"2026-07-20 20:09:34\"},{\"_id\":\"lost_017\",\"titulo\":\"Chave de Carro Fiat\",\"categoria\":\"Material Escolar\",\"descricao\":\"Item 'Chave de Carro Fiat' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_017\",\"proprietario_usuario_id\":\"usr_017\",\"data_perda\":\"2026-07-19 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":true,\"valor_estimado\":614,\"criado_em\":\"2026-07-19 20:09:34\"},{\"_id\":\"lost_018\",\"titulo\":\"Jaqueta Jeans Levis\",\"categoria\":\"Acessórios\",\"descricao\":\"Item 'Jaqueta Jeans Levis' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_018\",\"proprietario_usuario_id\":\"usr_018\",\"data_perda\":\"2026-07-18 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":622,\"criado_em\":\"2026-07-18 20:09:34\"},{\"_id\":\"lost_019\",\"titulo\":\"Tablet Samsung Galaxy Tab\",\"categoria\":\"Vestuário\",\"descricao\":\"Item 'Tablet Samsung Galaxy Tab' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_019\",\"proprietario_usuario_id\":\"usr_019\",\"data_perda\":\"2026-07-17 20:09:34\",\"status\":\"resgatado\",\"recompensa_oferecida\":false,\"valor_estimado\":852,\"criado_em\":\"2026-07-17 20:09:34\"},{\"_id\":\"lost_020\",\"titulo\":\"Carregador Anker USBC\",\"categoria\":\"Chaves\",\"descricao\":\"Item 'Carregador Anker USBC' esquecido nas imediações do local. Possui marcações visíveis e características específicas.\",\"local_id\":\"loc_020\",\"proprietario_usuario_id\":\"usr_020\",\"data_perda\":\"2026-07-16 20:09:34\",\"status\":\"pendente\",\"recompensa_oferecida\":false,\"valor_estimado\":798,\"criado_em\":\"2026-07-16 20:09:34\"},{\"titulo\":\"NOTEBOOK\",\"categoria\":\"Eletrônicos\",\"valor_estimado\":450,\"status\":\"pendente\",\"descricao\":\"Item NOTEBOOK cadastrado manualmente via Dashboard UI.\",\"_id\":\"84447e6a17629f24f988d62a\",\"criado_em\":\"2026-08-05 01:11:55\"}]"
+    },
+    "hashes": {
+        "user:session:sess_token_1": {
+            "user_id": "usr_001",
+            "nome": "Carlos Silva",
+            "email": "carlos1@faculdade.edu.br",
+            "perfil": "Aluno",
+            "login_timestamp": "1785884974"
+        },
+        "user:session:sess_token_2": {
+            "user_id": "usr_002",
+            "nome": "Ana Oliveira",
+            "email": "ana2@faculdade.edu.br",
+            "perfil": "Professor",
+            "login_timestamp": "1785881374"
+        },
+        "user:session:sess_token_3": {
+            "user_id": "usr_003",
+            "nome": "Mariana Santos",
+            "email": "mariana3@faculdade.edu.br",
+            "perfil": "Funcionário",
+            "login_timestamp": "1785877774"
+        },
+        "user:session:sess_token_4": {
+            "user_id": "usr_004",
+            "nome": "Lucas Pereira",
+            "email": "lucas4@faculdade.edu.br",
+            "perfil": "Visitante",
+            "login_timestamp": "1785874174"
+        },
+        "user:session:sess_token_5": {
+            "user_id": "usr_005",
+            "nome": "Beatriz Costa",
+            "email": "beatriz5@faculdade.edu.br",
+            "perfil": "Administrador",
+            "login_timestamp": "1785870574"
+        }
+    },
+    "zsets": {
+        "items:recent:zset": {
+            "lost_020:Carregador Anker USBC": 1784225374,
+            "lost_019:Tablet Samsung Galaxy Tab": 1784311774,
+            "lost_018:Jaqueta Jeans Levis": 1784398174,
+            "lost_017:Chave de Carro Fiat": 1784484574,
+            "lost_016:Pasta de Documentos Sanfonada": 1784570974,
+            "lost_015:Fone de Ouvido Bluetooth JBL": 1784657374,
+            "lost_014:Pen Drive Sandisk 64GB": 1784743774,
+            "lost_013:Guarda-chuva Automático": 1784830174,
+            "lost_012:Óculos de Grau Ray-Ban": 1784916574,
+            "lost_011:Relógio Smartwatch Amazfit": 1785002974,
+            "lost_010:Calculadora Científica Casio": 1785089374,
+            "lost_009:RG - Registro Geral": 1785175774,
+            "lost_008:AirPods Pro 2ª Geração": 1785262174,
+            "lost_007:Garrafa Térmica Stanley Verde": 1785348574,
+            "lost_006:Caderno Universitário 10 Matérias": 1785434974,
+            "lost_005:Casaco de Frio Preto Nike": 1785521374,
+            "lost_004:Chaveiro com 3 Chaves e Alarme": 1785607774,
+            "lost_003:Mochila Dell Azul": 1785694174,
+            "lost_002:Carteira de Couro Marrom": 1785780574,
+            "lost_001:iPhone 13 Preto": 1785866974,
+            "84447e6a17629f24f988d62a:NOTEBOOK": 1785885115
+        }
+    },
+    "lists": {
+        "returns:recent:list": [
+            "[2026-07-17 05:09:34] Protocolo PROT-2026-01019 concluído para o item lost_020",
+            "[2026-07-18 05:09:34] Protocolo PROT-2026-01018 concluído para o item lost_019",
+            "[2026-07-19 05:09:34] Protocolo PROT-2026-01017 concluído para o item lost_018",
+            "[2026-07-20 05:09:34] Protocolo PROT-2026-01016 concluído para o item lost_017",
+            "[2026-07-21 05:09:34] Protocolo PROT-2026-01015 concluído para o item lost_016",
+            "[2026-07-22 05:09:34] Protocolo PROT-2026-01014 concluído para o item lost_015",
+            "[2026-07-23 05:09:34] Protocolo PROT-2026-01013 concluído para o item lost_014",
+            "[2026-07-24 05:09:34] Protocolo PROT-2026-01012 concluído para o item lost_013",
+            "[2026-07-25 05:09:34] Protocolo PROT-2026-01011 concluído para o item lost_012",
+            "[2026-07-26 05:09:34] Protocolo PROT-2026-01010 concluído para o item lost_011",
+            "[2026-07-27 05:09:34] Protocolo PROT-2026-01009 concluído para o item lost_010",
+            "[2026-07-28 05:09:34] Protocolo PROT-2026-01008 concluído para o item lost_009",
+            "[2026-07-29 05:09:34] Protocolo PROT-2026-01007 concluído para o item lost_008",
+            "[2026-07-30 05:09:34] Protocolo PROT-2026-01006 concluído para o item lost_007",
+            "[2026-07-31 05:09:34] Protocolo PROT-2026-01005 concluído para o item lost_006",
+            "[2026-08-01 05:09:34] Protocolo PROT-2026-01004 concluído para o item lost_005",
+            "[2026-08-02 05:09:34] Protocolo PROT-2026-01003 concluído para o item lost_004",
+            "[2026-08-03 05:09:34] Protocolo PROT-2026-01002 concluído para o item lost_003",
+            "[2026-08-04 05:09:34] Protocolo PROT-2026-01001 concluído para o item lost_002",
+            "[2026-08-05 05:09:34] Protocolo PROT-2026-01000 concluído para o item lost_001"
+        ]
+    },
+    "sets": {
+        "categories:set": [
+            "Eletrônicos",
+            "Documentos",
+            "Material Escolar",
+            "Acessórios",
+            "Vestuário",
+            "Chaves",
+            "Outros"
+        ]
+    },
+    "ttls": {
+        "item:lost:84447e6a17629f24f988d62a": 1785885415,
+        "api:list:itens_perdidos": 1785885799
+    }
+}
