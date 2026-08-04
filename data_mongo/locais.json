@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "loc_001",
+        "nome_local": "Bloco A",
+        "ponto_referencia": "Próximo ao acesso 1",
+        "andar": "1º Andar",
+        "responsavel": "Guarda A",
+        "ativo": true,
+        "criado_em": "2026-08-05 01:09:34"
+    },
+    {
+        "_id": "loc_002",
+        "nome_local": "Bloco B",
+        "ponto_referencia": "Próximo ao acesso 2",
+        "andar": "2º Andar",
+        "responsavel": "Guarda B",
+        "ativo": true,
+        "criado_em": "2026-08-04 01:09:34"
+    },
+    {
+        "_id": "loc_003",
+        "nome_local": "Bloco C",
+        "ponto_referencia": "Próximo ao acesso 3",
+        "andar": "3º Andar",
+        "responsavel": "Guarda C",
+        "ativo": true,
+        "criado_em": "2026-08-03 01:09:34"
+    },
+    {
+        "_id": "loc_004",
+        "nome_local": "Bloco D",
+        "ponto_referencia": "Próximo ao acesso 4",
+        "andar": "1º Andar",
+        "responsavel": "Guarda D",
+        "ativo": true,
+        "criado_em": "2026-08-02 01:09:34"
+    },
+    {
+        "_id": "loc_005",
+        "nome_local": "Bloco Central",
+        "ponto_referencia": "Próximo ao acesso 5",
+        "andar": "2º Andar",
+        "responsavel": "Guarda E",
+        "ativo": true,
+        "criado_em": "2026-08-01 01:09:34"
+    },
+    {
+        "_id": "loc_006",
+        "nome_local": "Biblioteca",
+        "ponto_referencia": "Próximo ao acesso 6",
+        "andar": "3º Andar",
+        "responsavel": "Guarda A",
+        "ativo": true,
+        "criado_em": "2026-07-31 01:09:34"
+    },
+    {
+        "_id": "loc_007",
+        "nome_local": "Restaurante Universitário",
+        "ponto_referencia": "Próximo ao acesso 7",
+        "andar": "1º Andar",
+        "responsavel": "Guarda B",
+        "ativo": true,
+        "criado_em": "2026-07-30 01:09:34"
+    },
+    {
+        "_id": "loc_008",
+        "nome_local": "Laboratórios de Informática",
+        "ponto_referencia": "Próximo ao acesso 8",
+        "andar": "2º Andar",
+        "responsavel": "Guarda C",
+        "ativo": true,
+        "criado_em": "2026-07-29 01:09:34"
+    },
+    {
+        "_id": "loc_009",
+        "nome_local": "Ginásio Esportivo",
+        "ponto_referencia": "Próximo ao acesso 9",
+        "andar": "3º Andar",
+        "responsavel": "Guarda D",
+        "ativo": true,
+        "criado_em": "2026-07-28 01:09:34"
+    },
+    {
+        "_id": "loc_010",
+        "nome_local": "Auditório Principal",
+        "ponto_referencia": "Próximo ao acesso 10",
+        "andar": "1º Andar",
+        "responsavel": "Guarda E",
+        "ativo": true,
+        "criado_em": "2026-07-27 01:09:34"
+    },
+    {
+        "_id": "loc_011",
+        "nome_local": "Estacionamento Norte",
+        "ponto_referencia": "Próximo ao acesso 11",
+        "andar": "2º Andar",
+        "responsavel": "Guarda A",
+        "ativo": true,
+        "criado_em": "2026-07-26 01:09:34"
+    },
+    {
+        "_id": "loc_012",
+        "nome_local": "Estacionamento Sul",
+        "ponto_referencia": "Próximo ao acesso 12",
+        "andar": "3º Andar",
+        "responsavel": "Guarda B",
+        "ativo": true,
+        "criado_em": "2026-07-25 01:09:34"
+    },
+    {
+        "_id": "loc_013",
+        "nome_local": "Praça de Convivência",
+        "ponto_referencia": "Próximo ao acesso 13",
+        "andar": "1º Andar",
+        "responsavel": "Guarda C",
+        "ativo": true,
+        "criado_em": "2026-07-24 01:09:34"
+    },
+    {
+        "_id": "loc_014",
+        "nome_local": "Secretaria Acadêmica",
+        "ponto_referencia": "Próximo ao acesso 14",
+        "andar": "2º Andar",
+        "responsavel": "Guarda D",
+        "ativo": true,
+        "criado_em": "2026-07-23 01:09:34"
+    },
+    {
+        "_id": "loc_015",
+        "nome_local": "Coordenação de Cursos",
+        "ponto_referencia": "Próximo ao acesso 15",
+        "andar": "3º Andar",
+        "responsavel": "Guarda E",
+        "ativo": true,
+        "criado_em": "2026-07-22 01:09:34"
+    },
+    {
+        "_id": "loc_016",
+        "nome_local": "Setor de Achados e Perdidos",
+        "ponto_referencia": "Próximo ao acesso 16",
+        "andar": "1º Andar",
+        "responsavel": "Guarda A",
+        "ativo": true,
+        "criado_em": "2026-07-21 01:09:34"
+    },
+    {
+        "_id": "loc_017",
+        "nome_local": "Cantina II",
+        "ponto_referencia": "Próximo ao acesso 17",
+        "andar": "2º Andar",
+        "responsavel": "Guarda B",
+        "ativo": true,
+        "criado_em": "2026-07-20 01:09:34"
+    },
+    {
+        "_id": "loc_018",
+        "nome_local": "Quadra Poliesportiva",
+        "ponto_referencia": "Próximo ao acesso 18",
+        "andar": "3º Andar",
+        "responsavel": "Guarda C",
+        "ativo": true,
+        "criado_em": "2026-07-19 01:09:34"
+    },
+    {
+        "_id": "loc_019",
+        "nome_local": "Laboratório de Química",
+        "ponto_referencia": "Próximo ao acesso 19",
+        "andar": "1º Andar",
+        "responsavel": "Guarda D",
+        "ativo": true,
+        "criado_em": "2026-07-18 01:09:34"
+    },
+    {
+        "_id": "loc_020",
+        "nome_local": "Sala de Estudos 24h",
+        "ponto_referencia": "Próximo ao acesso 20",
+        "andar": "2º Andar",
+        "responsavel": "Guarda E",
+        "ativo": true,
+        "criado_em": "2026-07-17 01:09:34"
+    }
+]

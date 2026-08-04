@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "usr_001",
+        "nome": "Carlos Silva",
+        "email": "carlos1@faculdade.edu.br",
+        "telefone": "(11) 99863-6867",
+        "perfil": "Aluno",
+        "matricula": "20260100",
+        "criado_em": "2026-08-05 01:09:34"
+    },
+    {
+        "_id": "usr_002",
+        "nome": "Ana Oliveira",
+        "email": "ana2@faculdade.edu.br",
+        "telefone": "(11) 99124-3869",
+        "perfil": "Professor",
+        "matricula": "20260101",
+        "criado_em": "2026-08-04 01:09:34"
+    },
+    {
+        "_id": "usr_003",
+        "nome": "Mariana Santos",
+        "email": "mariana3@faculdade.edu.br",
+        "telefone": "(11) 95381-1845",
+        "perfil": "Funcionário",
+        "matricula": "20260102",
+        "criado_em": "2026-08-03 01:09:34"
+    },
+    {
+        "_id": "usr_004",
+        "nome": "Lucas Pereira",
+        "email": "lucas4@faculdade.edu.br",
+        "telefone": "(11) 94719-1714",
+        "perfil": "Visitante",
+        "matricula": "20260103",
+        "criado_em": "2026-08-02 01:09:34"
+    },
+    {
+        "_id": "usr_005",
+        "nome": "Beatriz Costa",
+        "email": "beatriz5@faculdade.edu.br",
+        "telefone": "(11) 91785-2817",
+        "perfil": "Administrador",
+        "matricula": "20260104",
+        "criado_em": "2026-08-01 01:09:34"
+    },
+    {
+        "_id": "usr_006",
+        "nome": "Fernanda Lima",
+        "email": "fernanda6@faculdade.edu.br",
+        "telefone": "(11) 95829-4216",
+        "perfil": "Aluno",
+        "matricula": "20260105",
+        "criado_em": "2026-07-31 01:09:34"
+    },
+    {
+        "_id": "usr_007",
+        "nome": "Gabriel Souza",
+        "email": "gabriel7@faculdade.edu.br",
+        "telefone": "(11) 95953-5375",
+        "perfil": "Professor",
+        "matricula": "20260106",
+        "criado_em": "2026-07-30 01:09:34"
+    },
+    {
+        "_id": "usr_008",
+        "nome": "Rafael Rodrigues",
+        "email": "rafael8@faculdade.edu.br",
+        "telefone": "(11) 91346-4306",
+        "perfil": "Funcionário",
+        "matricula": "20260107",
+        "criado_em": "2026-07-29 01:09:34"
+    },
+    {
+        "_id": "usr_009",
+        "nome": "Juliana Alves",
+        "email": "juliana9@faculdade.edu.br",
+        "telefone": "(11) 93975-7695",
+        "perfil": "Visitante",
+        "matricula": "20260108",
+        "criado_em": "2026-07-28 01:09:34"
+    },
+    {
+        "_id": "usr_010",
+        "nome": "Thiago Martins",
+        "email": "thiago10@faculdade.edu.br",
+        "telefone": "(11) 98488-2715",
+        "perfil": "Administrador",
+        "matricula": "20260109",
+        "criado_em": "2026-07-27 01:09:34"
+    },
+    {
+        "_id": "usr_011",
+        "nome": "Camila Ribeiro",
+        "email": "camila11@faculdade.edu.br",
+        "telefone": "(11) 97587-2810",
+        "perfil": "Aluno",
+        "matricula": "20260110",
+        "criado_em": "2026-07-26 01:09:34"
+    },
+    {
+        "_id": "usr_012",
+        "nome": "Rodrigo Carvalho",
+        "email": "rodrigo12@faculdade.edu.br",
+        "telefone": "(11) 96609-3779",
+        "perfil": "Professor",
+        "matricula": "20260111",
+        "criado_em": "2026-07-25 01:09:34"
+    },
+    {
+        "_id": "usr_013",
+        "nome": "Patricia Mendes",
+        "email": "patricia13@faculdade.edu.br",
+        "telefone": "(11) 92794-1212",
+        "perfil": "Funcionário",
+        "matricula": "20260112",
+        "criado_em": "2026-07-24 01:09:34"
+    },
+    {
+        "_id": "usr_014",
+        "nome": "Vinicius Ramos",
+        "email": "vinicius14@faculdade.edu.br",
+        "telefone": "(11) 93538-4202",
+        "perfil": "Visitante",
+        "matricula": "20260113",
+        "criado_em": "2026-07-23 01:09:34"
+    },
+    {
+        "_id": "usr_015",
+        "nome": "Amanda Ferreira",
+        "email": "amanda15@faculdade.edu.br",
+        "telefone": "(11) 91815-5010",
+        "perfil": "Administrador",
+        "matricula": "20260114",
+        "criado_em": "2026-07-22 01:09:34"
+    },
+    {
+        "_id": "usr_016",
+        "nome": "Marcelo Barbosa",
+        "email": "marcelo16@faculdade.edu.br",
+        "telefone": "(11) 94580-5761",
+        "perfil": "Aluno",
+        "matricula": "20260115",
+        "criado_em": "2026-07-21 01:09:34"
+    },
+    {
+        "_id": "usr_017",
+        "nome": "Larissa Gomez",
+        "email": "larissa17@faculdade.edu.br",
+        "telefone": "(11) 92048-8254",
+        "perfil": "Professor",
+        "matricula": "20260116",
+        "criado_em": "2026-07-20 01:09:34"
+    },
+    {
+        "_id": "usr_018",
+        "nome": "Bruno Teixeira",
+        "email": "bruno18@faculdade.edu.br",
+        "telefone": "(11) 95022-6902",
+        "perfil": "Funcionário",
+        "matricula": "20260117",
+        "criado_em": "2026-07-19 01:09:34"
+    },
+    {
+        "_id": "usr_019",
+        "nome": "Letícia Castro",
+        "email": "letícia19@faculdade.edu.br",
+        "telefone": "(11) 98879-6997",
+        "perfil": "Visitante",
+        "matricula": "20260118",
+        "criado_em": "2026-07-18 01:09:34"
+    },
+    {
+        "_id": "usr_020",
+        "nome": "Diego Rocha",
+        "email": "diego20@faculdade.edu.br",
+        "telefone": "(11) 96611-2675",
+        "perfil": "Administrador",
+        "matricula": "20260119",
+        "criado_em": "2026-07-17 01:09:34"
+    }
+]

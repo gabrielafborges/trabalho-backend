@@ -1,0 +1,222 @@
+[
+    {
+        "_id": "ret_001",
+        "item_id": "lost_001",
+        "usuario_recebedor_id": "usr_001",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01000",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-08-05 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-08-05 05:09:34"
+    },
+    {
+        "_id": "ret_002",
+        "item_id": "lost_002",
+        "usuario_recebedor_id": "usr_002",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01001",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-08-04 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-08-04 05:09:34"
+    },
+    {
+        "_id": "ret_003",
+        "item_id": "lost_003",
+        "usuario_recebedor_id": "usr_003",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01002",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-08-03 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-08-03 05:09:34"
+    },
+    {
+        "_id": "ret_004",
+        "item_id": "lost_004",
+        "usuario_recebedor_id": "usr_004",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01003",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-08-02 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-08-02 05:09:34"
+    },
+    {
+        "_id": "ret_005",
+        "item_id": "lost_005",
+        "usuario_recebedor_id": "usr_005",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01004",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-08-01 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-08-01 05:09:34"
+    },
+    {
+        "_id": "ret_006",
+        "item_id": "lost_006",
+        "usuario_recebedor_id": "usr_006",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01005",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-31 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-31 05:09:34"
+    },
+    {
+        "_id": "ret_007",
+        "item_id": "lost_007",
+        "usuario_recebedor_id": "usr_007",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01006",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-30 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-30 05:09:34"
+    },
+    {
+        "_id": "ret_008",
+        "item_id": "lost_008",
+        "usuario_recebedor_id": "usr_008",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01007",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-29 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-29 05:09:34"
+    },
+    {
+        "_id": "ret_009",
+        "item_id": "lost_009",
+        "usuario_recebedor_id": "usr_009",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01008",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-28 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-28 05:09:34"
+    },
+    {
+        "_id": "ret_010",
+        "item_id": "lost_010",
+        "usuario_recebedor_id": "usr_010",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01009",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-27 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-27 05:09:34"
+    },
+    {
+        "_id": "ret_011",
+        "item_id": "lost_011",
+        "usuario_recebedor_id": "usr_011",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01010",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-26 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-26 05:09:34"
+    },
+    {
+        "_id": "ret_012",
+        "item_id": "lost_012",
+        "usuario_recebedor_id": "usr_012",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01011",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-25 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-25 05:09:34"
+    },
+    {
+        "_id": "ret_013",
+        "item_id": "lost_013",
+        "usuario_recebedor_id": "usr_013",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01012",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-24 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-24 05:09:34"
+    },
+    {
+        "_id": "ret_014",
+        "item_id": "lost_014",
+        "usuario_recebedor_id": "usr_014",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01013",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-23 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-23 05:09:34"
+    },
+    {
+        "_id": "ret_015",
+        "item_id": "lost_015",
+        "usuario_recebedor_id": "usr_015",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01014",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-22 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-22 05:09:34"
+    },
+    {
+        "_id": "ret_016",
+        "item_id": "lost_016",
+        "usuario_recebedor_id": "usr_016",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01015",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-21 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-21 05:09:34"
+    },
+    {
+        "_id": "ret_017",
+        "item_id": "lost_017",
+        "usuario_recebedor_id": "usr_017",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01016",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-20 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-20 05:09:34"
+    },
+    {
+        "_id": "ret_018",
+        "item_id": "lost_018",
+        "usuario_recebedor_id": "usr_018",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01017",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-19 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-19 05:09:34"
+    },
+    {
+        "_id": "ret_019",
+        "item_id": "lost_019",
+        "usuario_recebedor_id": "usr_019",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01018",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-18 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-18 05:09:34"
+    },
+    {
+        "_id": "ret_020",
+        "item_id": "lost_020",
+        "usuario_recebedor_id": "usr_020",
+        "responsavel_entrega_id": "usr_003",
+        "protocolo_devolucao": "PROT-2026-01019",
+        "documento_verificado": "RG \/ CNH Apresentado",
+        "data_devolucao": "2026-07-17 05:09:34",
+        "observacoes": "Devolução realizada mediante comprovação de propriedade e assinatura do termo de resgate.",
+        "criado_em": "2026-07-17 05:09:34"
+    }
+]

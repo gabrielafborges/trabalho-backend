@@ -1,0 +1,25 @@
+{
+    "itens_perdidos": {
+        "idx_cat_status": {
+            "fields": {
+                "categoria": 1,
+                "status": 1
+            },
+            "type": "compound"
+        },
+        "idx_data": {
+            "fields": {
+                "data_perda": -1
+            },
+            "type": "single"
+        }
+    },
+    "itens_encontrados": {
+        "idx_local": {
+            "fields": {
+                "local_id": 1
+            },
+            "type": "single"
+        }
+    }
+}
